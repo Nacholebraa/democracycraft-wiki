@@ -34,7 +34,7 @@ Below are the lists of approved mods for Fabric and Forge respectively. Cosmetic
 
 Before downloading a mod, make sure it supports Minecraft version 1.18.2 and is either the Fabric or Forge version (depending on which loader you are using).
 
-**Fabric Clients**
+### **Fabric Clients**
 - AppleSkin - https://www.curseforge.com/minecraft/mc-mods/appleskin
 - Inventory HUD+ - https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge
 - Jade - https://www.curseforge.com/minecraft/mc-mods/jade
@@ -47,7 +47,7 @@ Before downloading a mod, make sure it supports Minecraft version 1.18.2 and is 
 - Xaero's Minimap (Fair-Play Edition) - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap-fair-play-edition
 - Xaero's World Map - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
 
-**Forge Clients**
+### **Forge Clients**
 - AppleSkin - https://www.curseforge.com/minecraft/mc-mods/appleskin
 - Inventory HUD+ - https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge
 - Jade - https://www.curseforge.com/minecraft/mc-mods/jade
@@ -64,12 +64,12 @@ Staff are consistently monitoring gameplay to ensure 100% compliance with the ru
 ## Modpacks
 Here are some modpacks that you can use on our server. All mods within these modpacks are approved, so feel free to mix and match them with the other approved mods, as shown above.
 
-**Fabric Packs**
+### **Fabric**
 - Fabulously Optimized - https://www.curseforge.com/minecraft/modpacks/fabulously-optimized
 - Performance+ - https://www.curseforge.com/minecraft/modpacks/performance
 - Performance+ Extended - https://www.curseforge.com/minecraft/modpacks/performance-extended
 
-**Forge**
+### **Forge**
 There are currently **no** approved forge modpacks.
 
 :::info Have a suggestions?
